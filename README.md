@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Siddhant 👋</h1>
 <p align="center">
-  🚀 Full-Stack Developer | 🌐 MERN Enthusiast | 🐍 Python Explorer
+  🚀 Full-Stack Developer | 🌐 MERN Enthusiast 
 </p>
 
 ---
@@ -40,12 +40,12 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrhacker&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhacker&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=spirit-bomb&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirit-bomb&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mrhacker&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=spirit-bomb&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
