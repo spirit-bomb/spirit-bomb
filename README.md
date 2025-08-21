@@ -61,5 +61,5 @@
 
 <!-- Footer Animation -->
 <p align="center">
-  <img src="https://github.com/mrhacker/mrhacker/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/spirit-bomb/spirit-bomb/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
