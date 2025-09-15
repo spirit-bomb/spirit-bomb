@@ -44,9 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirit-bomb&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=spirit-bomb&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 ---
 
